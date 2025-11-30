@@ -6,7 +6,7 @@ The meaning of the technique is to throw the opponent sprawling. You need to imm
 
 ### 1
 
-1. Uke grabs [Kumiuchi grip](../glossary.md#kumiuchi).
+1. Uke grabs [Kumiuchi](../../glossary.md#kumiuchi) grip.
 
 2. Cover hand and step back slightly on opposite foot before thrusting up into [Yugasumi](../../glossary.md#yugasumi).
 
@@ -18,7 +18,7 @@ The meaning of the technique is to throw the opponent sprawling. You need to imm
 
 ### 2
 
-1. Uke attempts to grab [Kumiuchi grip](../glossary.md#kumiuchi).
+1. Uke attempts to grab [Kumiuchi grip](../../glossary.md#kumiuchi).
 
 2. Simultaneously slam right hand into chest without moving, while grabbing the right sleeve.
 
@@ -40,11 +40,11 @@ The meaning of the technique is to throw the opponent sprawling. You need to imm
 
 ### 1
 
-1. Uke grabs with [Kumiuchi grip](../glossary.md#kumiuchi), and pulls Tori close.
+1. Uke grabs with [Kumiuchi grip](../../glossary.md#kumiuchi), and pulls Tori close.
 
 2. Tori steps with the left foot onto [Toki](../../glossary.md#toki), curling the toes in to attack [Umeboshi](../../glossary.md#umeboshi) (crush the plum with the big toe), or uses [Kagato](../../glossary.md#kagato) to stamp on the same place.
 
-3. Tori then steps to the right and strikes to Migi [Hadome](../../glossary.md) with Hidari [Happa Ken](../../glossary.md#happa_ken).
+3. Tori then steps to the right and strikes to Migi [Hadome](../../glossary.md#hadome) with Hidari [Happa Ken](../../glossary.md#happa_ken).
 
 4. Tori now leans back and kicks with Migi [Sokugyaku](../../glossary.md#sokugyaku) to Hidari [Uchi Sai](../../glossary.md#uchi-sai).
 
@@ -54,8 +54,8 @@ The meaning of the technique is to throw the opponent sprawling. You need to imm
 
 ### 2
 
-1. Uke grabs [Kumiuchi grip](../glossary.md#kumiuchi).
+1. Uke grabs [Kumiuchi grip](../../glossary.md#kumiuchi).
 
-2. Tori lifts his right arm to guard then strikes forcefully into Hidari [Nagare](../../glossary.md#nagare) with Migi [Omote](../../glossary.md) [Shuto](../../glossary.md#shuto), breaking the grip.
+2. Tori lifts his right arm to guard then strikes forcefully into Hidari [Nagare](../../glossary.md#nagare) with Migi [Omote](../../glossary.md#omote) [Shuto](../../glossary.md#shuto), breaking the grip.
 
-3. Quickly followed by Migi [Fudoken](../../glossary.md) to Hidari [Yokomen](../../glossary.md#yokomen), then Migi [Fudoken](../../glossary.md#fudoken) to [Gankotsu](../../glossary.md#gankotsu).
+3. Quickly followed by Migi [Fudoken](../../glossary.md#fudoken) to Hidari [Yokomen](../../glossary.md#yokomen), then Migi [Fudoken](../../glossary.md#fudoken) to [Gankotsu](../../glossary.md#gankotsu).

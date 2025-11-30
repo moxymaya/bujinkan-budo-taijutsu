@@ -30,12 +30,6 @@ The meaning of the technique is to throw the opponent sprawling. You need to imm
 
 6. [Yoko Tobi](../../glossary.md#yoko-tobi) away while keeping Kamae.
 
-### 3
-
-1. Uke comes in to grab single lapel.
-
-2. Strike [Kasumi](../../glossary.md#kasumi) [Kinketsu](../../glossary.md#kinketsu) with []
-
 ### Henka
 
 ### 1

@@ -30,6 +30,22 @@ The meaning of the technique is to throw the opponent sprawling. You need to imm
 
 6. [Yoko Tobi](../../glossary.md#yoko-tobi) away while keeping Kamae.
 
+### 3
+
+1. Uke grabs [Kumiuchi grip](../../glossary.md#kumiuchi) and steps in to throw.
+
+2. Tori shifts right leg back to make Jumonji, with weight shifted slightly over left foot.
+
+3. Right arm extends outwards, and left arm controls Uke's elbow to nullify the throw. 
+
+4. Koppoken is used to strike up into [Yugasumi](../../glossary.md#yugasumi).
+   
+   1. Possibly [Boshiken](../../glossary.md#boshiken), but with angle, Koppoken is easier.
+
+5. Quickly followed by [yoko-geri](../../glossary.md#yoko-geri) to [gedan](../../glossary.md#gedan).
+
+6. Left palm strike to [yokomen](../../glossary.md) to sprawl.
+
 ### Henka
 
 ### 1

@@ -103,3 +103,25 @@ The **sternum** (center of the chest, just below the clavicles)
 A powerful blow or thrust to this spot can disrupt breathing, cause 
 intense pain, and break the protective “shield” that the rib cage 
 normally provides.
+
+## Yoko-geri
+
+- **Yoko** means “side” or “horizontal.”
+- **Geri** (or *kicks* in Japanese) denotes a kicking technique.
+
+A yoko‑geri is delivered by thrusting the heel outward from a 
+sideways stance, targeting the opponent’s torso, ribs, or thigh. It’s 
+one of the core striking fundamentals taught across the various Bujinkan
+ schools, alongside other kicks such as mae‑geri (front kick).
+
+## Gedan
+
+Lower level or lower part.
+
+## Yokomen
+
+Side face (temporal)
+
+## Boshiken
+
+Thumb

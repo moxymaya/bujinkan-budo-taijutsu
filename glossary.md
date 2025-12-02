@@ -1,60 +1,48 @@
 # Glossary
 
-1. <a id="kumiuchi">Kumiuchi grip</a>
-   
-   1. Sleeve and lapel grab
+## Kumiuchi
 
-2. <a id="gankotsu">Gankotsu</a>
-   
-   1. Chin
+Sleeve and lapel grab
 
-3. <a id="asagasumi">Asagasumi</a>
-   
-   1. Area around the esophagus.
+## Gankotsu
 
-4. <a id="boshiken">Boshiken</a>
-   
-   1. Thumb
+Chin
 
-5. <a id="yugasumi">Yugasumi</a>
-   
-   1. An inch back and behind the ear
+## Asagasumi
 
-6. <a id="kakushi_geri">Kakushi Geri</a>
-   
-   1. Shin
+Area around the esophagus.
 
-7. <a id="gedan">Gedan</a>
-   
-   1. Lower half
+## Yugasumi
 
-8. Shako Te
-   
-   1. Palm strike
+An inch back and behind the ear
 
-9. <a id="toki">Toki</a>
-   
-   1. Top of foot
+## Kakushi Geri
 
-10. <a id="umeboshi">Umeboshi</a>
-    
-    1. Pickled plum. Can refer to various pressure points.
+Shin
 
-11. <a id="kagato">Kagato</a>
-    
-    1. Heel stamp
+## Shako Te
 
-12. <a id="hadome">Hadome</a>
-    
-    1. Cheekbone and outer corner of the eye, or one inch below the ear lobe - unsure what is correct.
+Palm strike
 
-13. <a id="yokomen">Yokomen</a>
-    
-    1. Side face (temporal)
+## Toki
 
-14. <a id="happa_ken">Happa ken</a>
-    
-    1. Five finger strike (slap).
+Top of foot
+
+## Umeboshi
+
+Pickled plum. Can refer to various pressure points.
+
+## Kagato
+
+Heel stamp
+
+## Hadome
+
+Cheekbone and outer corner of the eye, or one inch below the ear lobe - unsure what is correct.
+
+## Happa ken
+
+1. Five finger strike (slap).
 
 ## Sokugyaku
 
